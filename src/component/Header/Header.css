@@ -1,0 +1,24 @@
+.main{
+  background-image: url(../../header.jpg);
+  background-repeat: no-repeat;
+  box-sizing: border-box;
+  background-size: cover;
+  background-position: center;
+  padding: 50px 0;
+  background-blend-mode: multiply;
+  background-color: rgb(129, 106, 90);
+}
+.header{
+    /* background-image:url(../../header.jpg); */
+    box-sizing: border-box;
+    box-sizing: border-box;
+    border-radius: 5px;
+    margin: auto;
+    color: #fff;
+    line-height: 20px;
+    padding-bottom: 10px;
+}
+.header h1{
+    font-size: 40px;
+    text-transform: initial;
+}
