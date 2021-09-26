@@ -16,6 +16,7 @@ const Cart = (props) => {
                     )
                 }
             </div>
+            <button className="mt-1 btn btn-success">Buy now</button>
 
         </div>
     );

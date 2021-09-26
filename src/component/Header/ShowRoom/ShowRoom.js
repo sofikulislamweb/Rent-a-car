@@ -6,9 +6,9 @@ const ShowRoom = (props) => {
     const { name, madein, price, img, color, body } = props.car;
     const shoppingCart = <FontAwesomeIcon icon={faShoppingCart} />;
     return (
-        <div className="col-4 single-column">
+        <div className="col-4 single-column mt-1">
             <div className="card-group ">
-                <div className="card my-4">
+                <div className="card">
                     <img src={img} className="card-img-top" alt="..." />
                     <div className="card-body">
                         <h4 className="text-success">Name: {name}</h4>

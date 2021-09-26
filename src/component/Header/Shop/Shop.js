@@ -28,7 +28,7 @@ const Shop = () => {
                 </div>
 
             </div>
-            <div className="col-md-3">
+            <div className="col-md-3 mt-4">
                 <Cart cart={cart}>
 
                 </Cart>
